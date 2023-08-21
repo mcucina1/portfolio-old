@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "homepage": {
-    "homepage": "https://mcucina.github.io/portfolio"
+    "homepage": "http://mcucina1.github.io/portfolio"
   },
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
