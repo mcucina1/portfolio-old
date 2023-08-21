@@ -1,0 +1,35 @@
+.footer-section{
+    height:100px;
+    background-color: white;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.footer {
+    height: 12vh;
+    width:100%;
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.icons {
+    display: flex;
+}
+
+.icons svg {
+    font-size: 2rem;
+    margin:10px 1rem 0;
+}
+
+svg:hover {
+    cursor: pointer;
+}
+
+.footer p {
+    margin:0;
+    font-size: 14px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

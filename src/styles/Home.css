@@ -1,0 +1,12 @@
+.home-section {
+    width:100%;
+    height:60vh;
+    display: flex;
+    flex-flow:column;
+    justify-content: center;
+    margin-left:2rem;
+}
+
+.home {
+    margin-bottom:0px
+}
