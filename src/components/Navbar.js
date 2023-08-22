@@ -15,7 +15,7 @@ function Navbar() {
   return (
     <div className='navbar' id={expandNavbar ? 'open' : 'close'}>
         <div className='links hiddenLinks'>
-            <Link to={'/'}> Home </Link>
+            <Link to={'/portfolio'}> Home </Link>
             <Link to={'/about'}> About </Link>
             <Link to={'/projects'}> Projects </Link>
             <Link to={'/skills'}> Skills </Link>
